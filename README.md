@@ -6,3 +6,5 @@ It mainly consists of Python code and some other snippets used to solve coding p
 Nothing too elaborated.
 
 This will probably be abandoned.
+
+But it can also be ressurected anytime soon.
